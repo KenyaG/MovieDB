@@ -7,7 +7,30 @@
 		<key>MovieApp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+		<key>MovieDB.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1573E7622522DD5100B89727</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1573E77B2522DD5200B89727</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1597C8C8252BB3DE007F1AF1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,6 @@
+framework module GrubFoundation {
+  umbrella header "GrubFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

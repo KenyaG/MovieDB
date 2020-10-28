@@ -1,0 +1,6 @@
+framework module GrubTest {
+  umbrella header "GrubTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

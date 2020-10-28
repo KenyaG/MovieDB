@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  GrubFoundation
+
+  Created by Prachi Gauriar on 11/22/2017.
+  Copyright © 2017 Grubhub, Inc. All rights reserved.
+*/
+
+/* Description for a ValidationError. The parameter is a (probably unlocalized) reason. */
+"ValidationError.descriptionFormat" = "Validation failed. %1$@.";
+
+/* Description of no response HTTP response error */
+"HTTPResponseError.noResponse" = "no response";
+
+/* Description of non-HTTP URL response HTTP response error */
+"HTTPResponseError.nonHTTPURLResponse" = "non-HTTP URL response";
+
+/*
+ Format string for invalid status code HTTP response errors. The first positional parameter is the status code itself.
+ The second is a localized description of the status code.
+ */
+"HTTPResponseError.invalidStatusCodeFormat" = "invalid status code: %1$d (%2$@)";
+
+/* Description of unprocessable entity HTTP status code */
+"HTTPStatusCode.unprocessableEntity" = "unprocessable entity";

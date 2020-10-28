@@ -1,0 +1,20 @@
+PODS:
+  - GrubFoundation (6.0)
+  - GrubTest (4.0)
+
+DEPENDENCIES:
+  - GrubFoundation (~> 6.0)
+  - GrubTest (~> 4.0)
+
+SPEC REPOS:
+  "git@github.com:GrubhubProd/DinerSpecs.git":
+    - GrubFoundation
+    - GrubTest
+
+SPEC CHECKSUMS:
+  GrubFoundation: 2e2baf2e90a8a7f75fcefd915468042c0eb92c05
+  GrubTest: fca1afc36e0e99732ca4b0075d7621bff279de9d
+
+PODFILE CHECKSUM: 2a928658503e637b2c85ae73167eeb87a87cb1a2
+
+COCOAPODS: 1.10.0.rc.1
